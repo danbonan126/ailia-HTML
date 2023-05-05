@@ -1,0 +1,1430 @@
+.ailia-fr-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.ailia-fr-ailia-fr {
+  width: 100%;
+  height: 6701px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(17, 2, 19, 1);
+}
+.ailia-fr-b-footer {
+  top: 6201px;
+  left: 0px;
+  width: 1440px;
+  height: 500px;
+  position: absolute;
+}
+.ailia-fr-newsletter {
+  gap: 20px;
+  top: 6280px;
+  left: 965px;
+  width: 444px;
+  height: 303px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.ailia-fr-text {
+  color: rgba(255, 255, 255, 1);
+  width: 217px;
+  height: auto;
+  font-size: 36px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Exo;
+  font-weight: 700;
+  line-height: 25.200000762939453px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ailia-fr-text002 {
+  color: rgba(255, 255, 255, 1);
+  width: 407px;
+  height: auto;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Exo;
+  font-weight: 400;
+  line-height: 25.200000762939453px;
+  padding-top: var(--dl-space-space-twounits);
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ailia-fr-adressemail {
+  width: 444px;
+  height: 50px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.ailia-fr-text004 {
+  top: 181px;
+  left: var(--dl-space-space-halfunit);
+  color: rgba(255, 255, 255, 1);
+  width: var(--dl-size-size-xxlarge);
+  height: auto;
+  margin: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Exo;
+  font-weight: 400;
+  line-height: 25.200000762939453px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ailia-fr-emailnewsletter {
+  top: 170px;
+  left: 0px;
+  right: 0px;
+  width: 444px;
+  height: 50px;
+  margin: auto;
+  opacity: 0.50;
+  position: absolute;
+  border-radius: 15px;
+}
+.ailia-fr-envoyez {
+  width: 335px;
+  height: 62px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.ailia-fr-abuttonoutline {
+  left: 0px;
+  right: 0px;
+  width: 335px;
+  bottom: -19px;
+  height: 62px;
+  margin: auto;
+  display: flex;
+  padding: 15px 48.421875px 16.1875px 48.578125px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(149, 225, 211, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 12px;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.ailia-fr-text006 {
+  left: 0px;
+  color: rgb(149, 225, 211);
+  right: 0px;
+  width: 311px;
+  bottom: 0px;
+  height: auto;
+  margin: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Exo;
+  font-weight: 400;
+  line-height: 25.2px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ailia-fr-socials {
+  gap: 23px;
+  top: 6605px;
+  left: 612px;
+  width: 118px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.ailia-fr-twitter {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.ailia-fr-svg6320a7a5700234f9492a82f0twittersvg {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.ailia-fr-linkedin {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.ailia-fr-svg6320a7f289fcf22c337e8904linkedinsvg {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.ailia-fr-instagram1 {
+  width: 24px;
+  height: 24px;
+}
+.ailia-fr-policies {
+  top: 6280px;
+  left: 612px;
+  width: 217px;
+  height: 315px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.ailia-fr-text007 {
+  color: rgba(255, 255, 255, 1);
+  width: 217px;
+  height: auto;
+  flex-grow: 1;
+  font-size: 36px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Exo;
+  font-weight: 700;
+  line-height: 25.200000762939453px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ailia-fr-text009 {
+  color: rgba(255, 255, 255, 1);
+  width: 217px;
+  height: auto;
+  font-size: 24px;
+  align-self: center;
+  font-style: Light;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 300;
+  line-height: 24px;
+  font-stretch: normal;
+  padding-bottom: var(--dl-space-space-twounits);
+  text-decoration: none;
+}
+.ailia-fr-copyright {
+  top: 6254px;
+  left: 61px;
+  width: 269px;
+  height: 367px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.ailia-fr-text024 {
+  top: 348px;
+  color: rgba(255, 255, 255, 1);
+  width: 269px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Light;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 300;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ailia-fr-ailia-blanc11 {
+  top: 0px;
+  left: 6px;
+  width: 259px;
+  height: 348px;
+  position: absolute;
+}
+.ailia-fr-b-div6 {
+  top: 5421px;
+  left: 0px;
+  width: 1440px;
+  height: 780px;
+  position: absolute;
+}
+.ailia-fr-dan {
+  top: 5666px;
+  left: 1072px;
+  width: 277px;
+  height: 431px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+.ailia-fr-team4 {
+  top: 0px;
+  left: 25px;
+  width: 226px;
+  height: 292px;
+  opacity: 0.50;
+  position: absolute;
+  border-radius: 15px;
+}
+.ailia-fr-text026 {
+  color: rgba(93, 99, 110, 1);
+  height: auto;
+  z-index: 1;
+  font-size: 34px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 48px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ailia-fr-text028 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  z-index: 2;
+  font-size: 28px;
+  align-self: stretch;
+  font-style: Light;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 300;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ailia-fr-soufiane {
+  top: 5666px;
+  left: 745px;
+  width: 277px;
+  height: 431px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+.ailia-fr-team41 {
+  top: 0px;
+  left: 25px;
+  width: 226px;
+  height: 292px;
+  opacity: 0.50;
+  position: absolute;
+  border-radius: 15px;
+}
+.ailia-fr-text030 {
+  color: rgba(93, 99, 110, 1);
+  height: auto;
+  z-index: 1;
+  font-size: 34px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 48px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ailia-fr-text032 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  z-index: 2;
+  font-size: 28px;
+  align-self: stretch;
+  font-style: Light;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 300;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ailia-fr-remy {
+  top: 5666px;
+  left: 418px;
+  width: 277px;
+  height: 431px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+.ailia-fr-team42 {
+  top: 0px;
+  left: 25px;
+  width: 226px;
+  height: 292px;
+  opacity: 0.50;
+  position: absolute;
+  border-radius: 15px;
+}
+.ailia-fr-text034 {
+  color: rgba(93, 99, 110, 1);
+  height: auto;
+  z-index: 1;
+  font-size: 34px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 48px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ailia-fr-text036 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  z-index: 2;
+  font-size: 28px;
+  align-self: stretch;
+  font-style: Light;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 300;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ailia-fr-arie {
+  top: 5666px;
+  left: 91px;
+  width: 277px;
+  height: 431px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+.ailia-fr-team43 {
+  top: 0px;
+  left: 25px;
+  width: 226px;
+  height: 292px;
+  opacity: 0.50;
+  position: absolute;
+  border-radius: 15px;
+}
+.ailia-fr-text038 {
+  color: rgba(93, 99, 110, 1);
+  height: auto;
+  z-index: 1;
+  font-size: 34px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 48px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ailia-fr-text040 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  z-index: 2;
+  font-size: 28px;
+  align-self: stretch;
+  font-style: Light;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 300;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ailia-fr-text042 {
+  top: 5482px;
+  left: 518px;
+  color: rgba(149, 225, 211, 1);
+  width: 405px;
+  height: auto;
+  position: absolute;
+  font-size: 64px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Exo;
+  font-weight: 500;
+  line-height: 84.80000305175781px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ailia-fr-b-div5 {
+  top: 4591px;
+  left: 0px;
+  width: 1440px;
+  height: 830px;
+  position: absolute;
+}
+.ailia-fr-clients {
+  gap: 10px;
+  top: 5089px;
+  left: 104px;
+  width: 1200px;
+  height: 130.28125px;
+  display: flex;
+  padding: 10px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.ailia-fr-client4 {
+  top: 0.28125px;
+  left: 0px;
+  width: 226px;
+  height: 130px;
+  opacity: 0.50;
+  position: absolute;
+  border-radius: 15px;
+}
+.ailia-fr-client3 {
+  top: 0px;
+  left: 331px;
+  width: 226px;
+  height: 130px;
+  opacity: 0.50;
+  z-index: 1;
+  position: absolute;
+  border-radius: 15px;
+}
+.ailia-fr-client2 {
+  top: 0px;
+  left: 652px;
+  width: 226px;
+  height: 130px;
+  opacity: 0.50;
+  z-index: 2;
+  position: absolute;
+  border-radius: 15px;
+}
+.ailia-fr-client1 {
+  top: 0px;
+  left: 974px;
+  width: 226px;
+  height: 130px;
+  opacity: 0.50;
+  z-index: 3;
+  position: absolute;
+  border-radius: 15px;
+}
+.ailia-fr-reconnu {
+  gap: 10px;
+  top: 4747px;
+  left: 120px;
+  width: 1200px;
+  display: flex;
+  position: absolute;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+.ailia-fr-text044 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  flex-grow: 1;
+  font-size: 66px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: center;
+  font-family: Exo;
+  font-weight: 500;
+  line-height: 69.95999908447266px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ailia-fr-text046 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  flex-grow: 1;
+  font-size: 20px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: center;
+  font-family: Exo;
+  font-weight: 400;
+  line-height: 35.20000076293945px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ailia-fr-b-div4 {
+  top: 4051px;
+  left: 0px;
+  width: 1440px;
+  height: 540px;
+  position: absolute;
+}
+.ailia-fr-subissez {
+  top: 4173px;
+  left: 18px;
+  width: 905px;
+  height: 296px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.ailia-fr-dmo {
+  top: 200px;
+  left: 198px;
+  width: 509px;
+  height: 96px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.ailia-fr-abuttonoutline1 {
+  top: 0px;
+  left: 0px;
+  width: 509px;
+  height: 96px;
+  display: flex;
+  padding: 15px 48.421875px 16.1875px 48.578125px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(149, 225, 211, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 12px;
+  justify-content: center;
+  background-color: rgba(149, 225, 211, 1);
+}
+.ailia-fr-text048 {
+  top: 36px;
+  left: 0px;
+  color: rgba(255, 255, 255, 1);
+  right: 0px;
+  width: 485px;
+  height: auto;
+  margin: auto;
+  position: absolute;
+  font-size: 40px;
+  align-self: center;
+  font-style: Regular;
+  text-align: center;
+  font-family: Exo;
+  font-weight: 400;
+  line-height: 25.200000762939453px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ailia-fr-text050 {
+  color: rgba(0, 0, 0, 1);
+  width: 905px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Exo;
+  font-weight: 500;
+  line-height: 84.80000305175781px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ailia-fr-text051 {
+  color: rgba(0, 0, 0, 1);
+}
+.ailia-fr-text052 {
+  color: rgba(149, 225, 211, 1);
+}
+.ailia-fr-ailia21 {
+  top: 4051px;
+  right: 0px;
+  width: 523px;
+  height: 540px;
+  position: absolute;
+}
+.ailia-fr-b-div3 {
+  top: 3236px;
+  left: 0px;
+  width: 1440px;
+  height: 814px;
+  position: absolute;
+}
+.ailia-fr-temps {
+  gap: 20px;
+  top: 3708px;
+  left: 161px;
+  width: 465px;
+  height: 159px;
+  display: flex;
+  padding: 41px 105.84375px 42.1875px 42px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 15px;
+  flex-direction: column;
+  background-image: linear-gradient(153deg, rgba(29, 30, 56, 0.4000000059604645) 0%, rgba(29, 30, 56, 0.25) 100%);
+}
+.ailia-fr-text054 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  flex-grow: 1;
+  font-size: 42px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Exo;
+  font-weight: 500;
+  line-height: 48.29999923706055px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ailia-fr-text056 {
+  left: 42px;
+  color: rgba(93, 99, 110, 1);
+  bottom: var(--dl-space-space-twounits);
+  height: auto;
+  position: absolute;
+  flex-grow: 1;
+  font-size: 18px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Exo;
+  font-weight: 500;
+  line-height: 25.200000762939453px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ailia-fr-concurrents {
+  gap: 20px;
+  top: 3521px;
+  left: 394px;
+  width: 465px;
+  height: 159px;
+  display: flex;
+  padding: 41px 105.84375px 42.1875px 42px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 15px;
+  flex-direction: column;
+  background-image: linear-gradient(153deg, rgba(29, 30, 56, 0.4000000059604645) 0%, rgba(29, 30, 56, 0.25) 100%);
+}
+.ailia-fr-text058 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  flex-grow: 1;
+  font-size: 42px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Exo;
+  font-weight: 500;
+  line-height: 48.29999923706055px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ailia-fr-text059 {
+  left: 42px;
+  color: rgba(93, 99, 110, 1);
+  bottom: var(--dl-space-space-twounits);
+  height: auto;
+  position: absolute;
+  flex-grow: 1;
+  font-size: 18px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Exo;
+  font-weight: 500;
+  line-height: 25.200000762939453px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ailia-fr-c-lus {
+  gap: 20px;
+  top: 3521px;
+  left: 47.578125px;
+  width: 308px;
+  height: 159px;
+  display: flex;
+  padding: 41px 105.84375px 42.1875px 42px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 15px;
+  flex-direction: column;
+  background-image: linear-gradient(153deg, rgba(29, 30, 56, 0.4000000059604645) 0%, rgba(29, 30, 56, 0.25) 100%);
+}
+.ailia-fr-text061 {
+  color: rgba(255, 255, 255, 1);
+  width: 121px;
+  height: auto;
+  flex-grow: 1;
+  font-size: 42px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Exo;
+  font-weight: 500;
+  line-height: 48.29999923706055px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ailia-fr-text063 {
+  left: 42px;
+  color: rgba(93, 99, 110, 1);
+  width: 160px;
+  bottom: var(--dl-space-space-twounits);
+  height: auto;
+  position: absolute;
+  flex-grow: 1;
+  font-size: 18px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Exo;
+  font-weight: 500;
+  line-height: 25.200000762939453px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ailia-fr-partenaires {
+  top: 3343px;
+  left: 218px;
+  width: 244px;
+  height: 159.484375px;
+  display: flex;
+  padding: 41px 105.84375px 42.1875px 42px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 15px;
+  flex-direction: column;
+  background-image: linear-gradient(153deg, rgba(29, 30, 56, 0.4000000059604645) 0%, rgba(29, 30, 56, 0.25) 100%);
+}
+.ailia-fr-text065 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  flex-grow: 1;
+  font-size: 42px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Exo;
+  font-weight: 500;
+  line-height: 48.29999923706055px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ailia-fr-text066 {
+  left: 42px;
+  color: rgba(93, 99, 110, 1);
+  bottom: var(--dl-space-space-twounits);
+  height: auto;
+  position: absolute;
+  flex-grow: 1;
+  font-size: 18px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Exo;
+  font-weight: 500;
+  line-height: 25.200000762939453px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ailia-fr-chiffres {
+  top: 3422px;
+  left: 927px;
+  width: 444px;
+  height: 481.953125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.ailia-fr-text068 {
+  top: 93.953125px;
+  color: rgba(93, 99, 110, 1);
+  width: 444px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Exo;
+  font-weight: 400;
+  line-height: 35.20000076293945px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ailia-fr-text070 {
+  color: rgba(255, 255, 255, 1);
+  width: 235px;
+  height: auto;
+  position: absolute;
+  font-size: 66px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Exo;
+  font-weight: 500;
+  line-height: 69.95999908447266px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ailia-fr-b-div2 {
+  top: 1302px;
+  left: 0px;
+  width: 1440px;
+  height: 1935px;
+  position: absolute;
+}
+.ailia-fr-fonctionnalits {
+  top: 1347px;
+  left: 136.6565399169922px;
+  width: 1202px;
+  height: 280px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.ailia-fr-frame1 {
+  gap: var(--dl-space-space-twounits);
+  width: 1187px;
+  height: 264px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.ailia-fr-text072 {
+  color: rgba(149, 225, 211, 1);
+  height: auto;
+  flex-grow: 1;
+  font-size: 50px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Exo;
+  font-weight: 500;
+  line-height: 84.80000305175781px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ailia-fr-text074 {
+  color: rgba(93, 99, 110, 1);
+  height: auto;
+  flex-grow: 1;
+  font-size: 20px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Exo;
+  font-weight: 400;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ailia-fr-text075 {
+  font-weight: 400;
+}
+.ailia-fr-text076 {
+  font-weight: 700;
+}
+.ailia-fr-divlinearline {
+  left: 8px;
+  width: 1187px;
+  bottom: var(--dl-space-space-unit);
+  height: 16px;
+  position: absolute;
+  border-radius: 8px;
+}
+.ailia-fr-algoextraction {
+  top: 1733px;
+  left: 827px;
+  width: 500px;
+  height: 487px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.ailia-fr-datatransformation1 {
+  width: 202px;
+  height: 200px;
+}
+.ailia-fr-text078 {
+  color: rgba(93, 99, 110, 1);
+  height: auto;
+  flex-grow: 1;
+  font-size: 48px;
+  align-self: center;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 48px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ailia-fr-text080 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  flex-grow: 1;
+  font-size: 24px;
+  align-self: center;
+  font-style: Light;
+  text-align: center;
+  font-family: Exo;
+  font-weight: 300;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ailia-fr-comptemail {
+  top: 1733px;
+  left: 62px;
+  width: 500px;
+  height: 400px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.ailia-fr-mail1 {
+  width: 202px;
+  height: 200px;
+}
+.ailia-fr-text085 {
+  color: rgba(93, 99, 110, 1);
+  height: auto;
+  flex-grow: 1;
+  font-size: 48px;
+  align-self: center;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 48px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ailia-fr-text087 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  flex-grow: 1;
+  font-size: 24px;
+  align-self: center;
+  font-style: Light;
+  text-align: center;
+  font-family: Exo;
+  font-weight: 300;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ailia-fr-filtres {
+  gap: 20px;
+  top: 2299px;
+  left: 48px;
+  width: 500px;
+  height: 400px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.ailia-fr-control1 {
+  width: 201px;
+  height: 181px;
+}
+.ailia-fr-text089 {
+  color: rgba(93, 99, 110, 1);
+  height: auto;
+  flex-grow: 1;
+  font-size: 48px;
+  align-self: center;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 48px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ailia-fr-text091 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  flex-grow: 1;
+  font-size: 24px;
+  align-self: center;
+  font-style: Light;
+  text-align: center;
+  font-family: Exo;
+  font-weight: 300;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ailia-fr-sas {
+  top: 2299px;
+  left: 828px;
+  width: 500px;
+  height: 400px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.ailia-fr-text093 {
+  top: 298px;
+  left: 0px;
+  color: rgba(0, 0, 0, 1);
+  right: 0px;
+  width: 498px;
+  height: auto;
+  margin: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Light;
+  text-align: center;
+  font-family: Exo;
+  font-weight: 300;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ailia-fr-text095 {
+  top: 215px;
+  left: 0px;
+  color: rgba(93, 99, 110, 1);
+  right: 0px;
+  width: 456px;
+  height: auto;
+  margin: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 48px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ailia-fr-mails1 {
+  top: 0px;
+  left: 149px;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+}
+.ailia-fr-suivi {
+  top: 2805px;
+  left: 462px;
+  width: 500px;
+  height: 400px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.ailia-fr-text097 {
+  top: 294px;
+  left: 0px;
+  color: rgba(0, 0, 0, 1);
+  right: 0px;
+  width: 500px;
+  height: auto;
+  margin: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Light;
+  text-align: center;
+  font-family: Exo;
+  font-weight: 300;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ailia-fr-text099 {
+  top: 231px;
+  left: 0px;
+  color: rgba(93, 99, 110, 1);
+  right: 0px;
+  width: 382px;
+  height: auto;
+  margin: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 48px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ailia-fr-running1 {
+  top: 0px;
+  left: 150px;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+}
+.ailia-fr-b-div1 {
+  top: 430px;
+  left: 0px;
+  width: 1440px;
+  height: 872px;
+  display: flex;
+  padding: 271.1875px 360px 120px 360px;
+  overflow: hidden;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-color: rgba(70, 91, 96, 1);
+}
+.ailia-fr-content-div1 {
+  gap: var(--dl-space-space-twounits);
+  top: 667px;
+  left: 98px;
+  width: 463px;
+  height: 441px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.ailia-fr-text101 {
+  color: rgb(149, 225, 211);
+  height: auto;
+  flex-grow: 1;
+  font-size: 45px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: center;
+  font-family: Exo;
+  font-weight: 500;
+  line-height: 60px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ailia-fr-text102 {
+  color: #95e1d3;
+}
+.ailia-fr-text103 {
+  color: rgba(255, 255, 255, 0.8);
+}
+.ailia-fr-text105 {
+  color: rgba(149, 225, 211, 1);
+  height: auto;
+  font-size: 24px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: center;
+  font-family: Exo;
+  font-weight: 400;
+  line-height: 35px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ailia-fr-abuttonoutline2 {
+  display: flex;
+  padding: 15px 48.421875px 16.1875px 48.578125px;
+  align-items: flex-start;
+  border-color: rgba(149, 225, 211, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 12px;
+}
+.ailia-fr-text110 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Exo;
+  font-weight: 400;
+  line-height: 25.200000762939453px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ailia-fr-softailia {
+  top: 647px;
+  left: 653.9999389648438px;
+  width: 710px;
+  height: 499.75px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.ailia-fr-soft-ailia {
+  top: 0px;
+  left: 0px;
+  width: 600px;
+  height: 332px;
+  position: absolute;
+}
+.ailia-fr-soft-ailia1 {
+  top: 166px;
+  left: 110.00003051757812px;
+  width: 600px;
+  height: 334px;
+  position: absolute;
+}
+.ailia-fr-text112 {
+  top: 271px;
+  left: 0px;
+  color: rgba(149, 225, 211, 1);
+  right: 0px;
+  width: 723px;
+  height: auto;
+  margin: auto;
+  position: absolute;
+  font-size: 80px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Exo;
+  font-weight: 500;
+  line-height: 84.80000305175781px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ailia-fr-text113 {
+  color: rgba(149, 225, 211, 1);
+}
+.ailia-fr-divglowtop {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 430px;
+  position: absolute;
+}
+.ailia-fr-ail-ablanc22 {
+  top: 16px;
+  left: 40px;
+  width: 150px;
+  height: 156px;
+  position: absolute;
+}
+.ailia-fr-navnavmenu {
+  top: 25px;
+  left: 216px;
+  width: 954px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.ailia-fr-text115 {
+  top: 12px;
+  left: 160px;
+  color: rgba(255, 255, 255, 0.800000011920929);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Exo;
+  font-weight: 700;
+  line-height: 25.200000762939453px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ailia-fr-text117 {
+  top: 12px;
+  left: 311.5625px;
+  color: rgba(255, 255, 255, 0.800000011920929);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Exo;
+  font-weight: 700;
+  line-height: 25.200000762939453px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ailia-fr-text119 {
+  top: 12px;
+  left: 546px;
+  color: rgba(255, 255, 255, 0.800000011920929);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Exo;
+  font-weight: 700;
+  line-height: 25.200000762939453px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ailia-fr-text121 {
+  top: 12px;
+  left: 696px;
+  color: rgba(255, 255, 255, 0.800000011920929);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Exo;
+  font-weight: 700;
+  line-height: 25.200000762939453px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ailia-fr-anavbutton {
+  top: 22.40625px;
+  left: 1196.453125px;
+  width: 232px;
+  display: flex;
+  padding: 9px 28.546875px 10.1875px 27px;
+  position: absolute;
+  align-items: flex-start;
+  border-radius: 15px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.ailia-fr-text123 {
+  color: rgba(149, 225, 211, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Exo;
+  font-weight: 700;
+  line-height: 25.200000762939453px;
+  font-stretch: normal;
+  text-decoration: none;
+}
